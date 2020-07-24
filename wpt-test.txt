@@ -2,3 +2,4 @@
 -testing membuat github
 -membuat materi data sciance
 -membuat materi power BI
+-membuat vidoe tutorial
